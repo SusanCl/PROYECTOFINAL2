@@ -1,0 +1,65 @@
+/* Estilo para el título con fondo */
+.title {
+  font-size: 24px;
+  color: #fff; /* Cambia el color del texto a blanco (#fff) */
+  text-align: center;
+  background-color: #167fef; /* Cambia el color de fondo del título a rojo (#e73939) */
+  padding: 20px; /* Añade un espacio de 10 píxeles alrededor del título para separarlo del fondo */
+  border-radius: 2px; /* Agrega esquinas redondeadas al fondo */
+}
+label[for="from"] {
+  color: #080808; /* Cambia el color de texto según tus preferencias (#ff0000 es rojo) */
+}
+label[for="to"] {
+  color: #131314; /* Cambia el color de texto según tus preferencias (#0000ff es azul) */
+}
+
+
+/* Estilo para los campos de entrada de texto con fondo blanco */
+.form-control {
+  background-color: #fff; /* Establece el fondo en blanco */
+  border: 1px solid #f7f3f3; /* Agrega un borde ligero a los campos de entrada */
+  border-radius: 5px; /* Agrega esquinas redondeadas a los campos de entrada */
+  padding: 5px; /* Añade un espacio de relleno de 5 píxeles dentro de los campos de entrada (ajusta según tus preferencias) */
+}
+
+/* Estilo para el botón "BUSCAR" */
+.btn-primary {
+  background-color: #0dd0de; /* Cambia el color de fondo del botón "BUSCAR" a azul */
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 20px; /* Añade espacio a los lados del botón (ajusta según tus preferencias) */
+  margin-top: 15px; /* Agrega un margen superior de 15px al botón */
+  margin-bottom: 15px; /* Agrega un margen inferior de 15px al botón */
+}
+
+/* Estilo para el botón "NUEVO" */
+.btn-default {
+  background-color: #d41313; /* Cambia el color de fondo del botón "NUEVO" a rojo */
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 20px; /* Añade espacio a los lados del botón (ajusta según tus preferencias) */
+  margin-top: 15px; /* Agrega un margen superior de 15px al botón */
+  margin-bottom: 15px; /* Agrega un margen inferior de 15px al botón */
+}
+.header, .content {
+  background-color:#68a6e9; /* Cambia el color de fondo según tus preferencias */
+  padding: 20px; /* Añade un espacio de relleno alrededor del contenido (ajusta según tus preferencias) */
+}
+/* Estilo para el contenedor con fondo */
+.card {
+  background-color: #5084de; /* Cambia el color de fondo según tus preferencias (#f2f2f2 es un gris claro) */
+  padding: 20px; /* Añade un espacio de 20 píxeles alrededor del contenido */
+  border-radius: 10px; /* Agrega esquinas redondeadas al contenedor */
+}
+
+
+
+
+
+
+
+
+
